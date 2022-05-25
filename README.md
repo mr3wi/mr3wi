@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Wilfried WIWI**
+## 👋 Hi, I’m **Wilfried WIWI**
 - 👀 I’m interested in Design and Computer science in generale
 - 🌱 I’m currently learning Front-end Web development
 - 🌱 I'm student at the coding accedmy of [Epitech](https://epitech.bj)
