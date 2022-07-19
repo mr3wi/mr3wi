@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Front-end Web development
 - 🌱 I'm student at the coding accedmy of [Epitech](https://epitech.bj)
 - 🌱 I’m currently in Internship at [Trellix](https://www.trellix.io)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any interesting project
+- 📫 How to reach me: wilfried.wiwi@epitech.eu
 - 
 
 
